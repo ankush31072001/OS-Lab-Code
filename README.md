@@ -38,3 +38,9 @@ Assignment -6
 Binary and Counting Semaphore
 Peterson's Algorithm
 Race Condition using fork()
+
+
+Assignment -7
+
+Consumer Producer Problem
+Reader Writer Problem

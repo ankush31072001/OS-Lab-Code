@@ -44,3 +44,8 @@ Assignment -7
 
 Consumer Producer Problem
 Reader Writer Problem
+
+
+Assignment -8
+
+Dining philosophers problem

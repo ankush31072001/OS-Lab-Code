@@ -49,3 +49,8 @@ Reader Writer Problem
 Assignment -8
 
 Dining philosophers problem
+
+
+Assignment -9
+
+Bankers Algorithm

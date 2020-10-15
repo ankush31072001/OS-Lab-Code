@@ -54,3 +54,12 @@ Dining philosophers problem
 Assignment -9
 
 Bankers Algorithm
+
+
+Assignment -10
+
+
+FCFS CPU Scheduling
+SJF CPU Scheduling
+Priority CPU Scheduling
+Round Robin CPU Scheduling

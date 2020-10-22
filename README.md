@@ -58,8 +58,15 @@ Bankers Algorithm
 
 Assignment -10
 
-
 FCFS CPU Scheduling
 SJF CPU Scheduling
 Priority CPU Scheduling
 Round Robin CPU Scheduling
+
+
+Assignment -11
+
+FCFS Disk Scheduling
+SSTF Disk Scheduling
+SCAN Disk Scheduling
+C-SCAN Disk Scheduling
